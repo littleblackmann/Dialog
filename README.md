@@ -90,7 +90,7 @@ exam.sh腳本是針對員工守則（rules.sh）的重點內容進行測驗。�
 [python發送Email參考影片](https://www.youtube.com/watch?v=YQboCnlOb6Y)
 [python發送Email參考網站](https://medium.com/%E8%A1%8C%E9%8A%B7%E6%90%AC%E9%80%B2%E5%A4%A7%E7%A8%8B%E5%BC%8F/python%E5%AF%A6%E7%8F%BEgmail%E5%AE%A2%E8%A3%BD%E5%8C%96%E4%BF%A1%E4%BB%B6%E5%A4%A7%E9%87%8F%E7%99%BC%E9%80%81-%E5%9F%BA%E7%A4%8E%E7%AF%87-a98e0c804e51)
 
-![gmail的smtp server](https://hackmd.io/_uploads/Hk775OApT.jpg)
+![gmail的smtp](https://hackmd.io/_uploads/rkCmep7Q0.png)
 
 ---
 ## 檔案執行順序
